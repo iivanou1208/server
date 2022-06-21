@@ -436,3 +436,4 @@ if __name__ == "__main__":
 # Close the cursor and the connection
 cursor0.close()
 my_cn.close()
+
