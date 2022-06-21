@@ -1,6 +1,7 @@
 from typing import *
 import server12.models as models
 
+
 class UnshiftableIterable(object):
     def __init__(self, iterable):
         self._iter = iter(iterable)
